@@ -53,3 +53,9 @@
     left: 0;
     min-height: 300px;
 }
+.modal-title {
+  color:#000000;
+}
+.modal-content {
+  color:#000000;
+}
